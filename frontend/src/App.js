@@ -1,9 +1,6 @@
-function App() {
-  return (
-    <div>
-      Social App
-    </div>
-  );
-}
+import Home from "./pages/home/Home";
 
+function App() {
+  return <Home></Home>
+}
 export default App;
