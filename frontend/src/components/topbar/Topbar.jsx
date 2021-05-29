@@ -10,14 +10,14 @@ export default function Topbar() {
             </div>
             <div className="topbarCenter">
                 <div className="searchbar">
-                    <Search classname="searchIcon"></Search>
+                    <Search className="searchIcon"></Search>
                     <input placeholder="Search for friend, post ot video" className="searchInput" />
                 </div>
             </div>
             <div className="topbarRight">
                 <div className="topbarLinks">
-                    <div class="topbarLink">Homepage</div>
-                    <div class="topbarLink">Timeline</div>                
+                    <div className="topbarLink">Homepage</div>
+                    <div className="topbarLink">Timeline</div>                
                 </div>
                 <div className="topbarIcons">
                     <div className="topbarIconItem">

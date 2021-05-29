@@ -17,7 +17,7 @@ export default function Sidebar() {
             <div className="sidebarWrapper">
                 <ul className="sidebarList">
                     <li className="sidebarListItem">
-                        <RssFeed classname="sidebarIcon"></RssFeed>
+                        <RssFeed className="sidebarIcon"></RssFeed>
                         <span className="sidebarListItemTex">Feed</span>
                     </li>
                     <li className="sidebarListItem">
